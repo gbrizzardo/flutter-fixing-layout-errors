@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: const Column(
                   children: [
                     SingleChildScrollView(
-                      scrollDirection: Axis.horizontal, // horizontal scroll
+                      scrollDirection: Axis.horizontal, // horizontal  scroll
                       child: Row(
                         children: [
                           // Expanded( child:
